@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f0f0f0; /* Warna latar belakang abu-abu muda */
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+    background-color: #ffffff; /* Warna latar belakang putih untuk kontainer */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Efek bayangan */
+    max-width: 600px; /* Batas lebar maksimal kontainer */
+    width: 100%; /* Lebar kontainer penuh */
+    box-sizing: border-box; /* Memastikan padding tidak menambah lebar elemen */
+}
+
+h1 {
+    color: #333; /* Warna teks abu-abu gelap */
+}
+
+p {
+    color: #555; /* Warna teks abu-abu sedang */
+    font-size: 16px; /* Ukuran font untuk paragraf */
+    line-height: 1.5; /* Jarak antar baris teks */
+}
+
+form {
+    margin-top: 20px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    color: #555; /* Warna teks abu-abu gelap */
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc; /* Warna batas abu-abu muda */
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50; /* Warna hijau */
+    color: #fff; /* Warna teks putih */
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049; /* Warna hijau gelap saat hover */
+}
