@@ -1,14 +1,22 @@
-# Belajar Dokumentasi Website
-Proyek ini bertujuan untuk memberikan contoh sederhana tentang bagaimana mendokumentasikan website menggunakan GitHub.
+# Pendahuluan
 
-## Fitur
-- **Halaman Utama**: Menampilkan judul "Belajar Dokumentasi Website" dengan gaya yang telah ditentukan.
-- **Halaman Login**: Formulir login sederhana dengan input untuk username dan password.
-- **Halaman Informasi**: Menampilkan informasi umum dalam format paragraf.
+## Belajar Dokumentasi Website
 
-## Instalasi
-Ikuti langkah-langkah di bawah ini untuk menginstal dan menjalankan proyek ini di lokal Anda:
+Selamat datang di **Belajar Dokumentasi Website**! 📖🚀\
+Buku ini akan membantu Anda memahami cara mendokumentasikan proyek website dengan **GitBook**.
 
-1. **Clone repositori**:
-   ```bash
-   https://github.com/rplsmkn10smg/belajar-dokumentasi-web
+### 📌 Apa yang Akan Dipelajari?
+
+* Cara membuat dan mengelola dokumentasi proyek dengan GitBook.
+* Menulis dokumentasi menggunakan **Markdown**.
+* Mengintegrasikan GitBook dengan **GitHub**.
+* Berkolaborasi dalam dokumentasi proyek.
+
+### 🎯 Tujuan Pembelajaran
+
+1. Memahami struktur GitBook.
+2. Menggunakan format Markdown untuk dokumentasi.
+3. Menerapkan workflow GitBook dengan GitHub.
+4. Meningkatkan keterampilan kolaborasi dalam dokumentasi proyek.
+
+Ayo mulai perjalanan belajar kita! 🚀
